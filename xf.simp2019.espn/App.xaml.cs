@@ -1,6 +1,5 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
+using xf.simp2019.espn.Views;
 
 namespace xf.simp2019.espn
 {
@@ -10,7 +9,7 @@ namespace xf.simp2019.espn
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ListArticlesPage();
         }
 
         protected override void OnStart()
