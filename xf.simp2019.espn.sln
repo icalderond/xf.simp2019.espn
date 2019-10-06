@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xf.simp2019.espn.iOS", "xf.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xf.simp2019.espn", "xf.simp2019.espn\xf.simp2019.espn.csproj", "{31FD58E3-7E9D-4B15-8BBB-2D45630FC4D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xf.simp2019.espn.NUnit", "xf.simp2019.espn.NUnit\xf.simp2019.espn.NUnit.csproj", "{687B900B-5B80-4789-B76A-7AB8D3A1B710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{31FD58E3-7E9D-4B15-8BBB-2D45630FC4D0}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{31FD58E3-7E9D-4B15-8BBB-2D45630FC4D0}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{31FD58E3-7E9D-4B15-8BBB-2D45630FC4D0}.Release|iPhone.Build.0 = Release|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{687B900B-5B80-4789-B76A-7AB8D3A1B710}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
