@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using System.Linq;
+using NUnit.Framework;
 namespace xf.simp2019.espn.NUnit
 {
     [TestFixture()]
@@ -9,6 +10,12 @@ namespace xf.simp2019.espn.NUnit
         public NcfServicesTest()
         {
             ncfServices = new Services.NcfServices();
+        }
+
+        [Test]
+        public void GetArticles_MustRetur_Any()
+        {
+            Assert.IsTrue(true);
         }
     }
 }
